@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "author": "enoobis",
+  "name": "PinGPTChat",
+  "description": "An extension to pin chats in ChatGPT.",
+  "icons": {
+    "16": "icons/icon.16.png",
+    "32": "icons/icon.32.png",
+    "48": "icons/icon.48.png",
+    "96": "icons/icon.96.png",
+    "128": "icons/icon.128.png"
+  },
+  "version": "1.0",
+  "permissions": [
+    "storage" ,
+    "downloads"
+  ],
+  "host_permissions": [
+    "*://chatgpt.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chatgpt.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
