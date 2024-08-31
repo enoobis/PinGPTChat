@@ -14,7 +14,7 @@
 
 ### From the Edge Add-ons
 
-1. Visit the [PinGPTChat](https://).
+1. Visit the [PinGPTChat](https://microsoftedge.microsoft.com/addons/detail/pingptchat/dcilfeialhablfeimfamjmfpohpccbeg).
 2. Click "Install" to install the extension.
 
 ### Manual Installation
