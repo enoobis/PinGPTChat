@@ -10,8 +10,8 @@
 During this time I have accumulated a huge number of chats and some of them are very important to me.
 And therefore in order not to lose sight of them I wanted a way to pin them for quick access.
 I went online, BUT to my surprise, I only found a couple of alternatives - 
-like PinFold (link), which allows you to pin just one chat for free and costs around $5
-and Pinnable ChatGPT, which lets you pin three but then asks you to pay $10 to pin more
+(like PinFold)[https://chromewebstore.google.com/detail/pinfold-chatgpt-folder-an/ookinnlmhenbmdkhmnnpomnalaiijlkh], which allows you to pin just one chat for free and costs around $5
+and (Pinnable ChatGPT)[https://chromewebstore.google.com/detail/pinnable-chatgpt-pin-gpt/gkcoljnpncflkbpfdclfnilimianfech?hl=en], which lets you pin three but then asks you to pay $10 to pin more
 I was **shocked/amazed**—how could such an **elementary and fundamental** thing have a price?  
 This got me thinking, and I decided to **create my own free solution**, because something this simple should be available to everyone.*
 
