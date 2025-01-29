@@ -4,6 +4,17 @@
 
 **PinGPTChat** is a lightweight and efficient browser extension that allows users to pin important chats in ChatGPT. With an intuitive interface and simple controls, this extension ensures that your most critical conversations are always easily accessible.
 
+## History
+ 
+*I started using chatgpt from the first weeks of its appearance.
+During this time I have accumulated a huge number of chats and some of them are very important to me.
+And therefore in order not to lose sight of them I wanted a way to pin them for quick access.
+I went online, BUT to my surprise, I only found a couple of alternatives - 
+like PinFold (link), which allows you to pin just one chat for free and costs around $5
+and Pinnable ChatGPT, which lets you pin three but then asks you to pay $10 to pin more
+I was **shocked/amazed**—how could such an **elementary and fundamental** thing have a price?  
+This got me thinking, and I decided to **create my own free solution**, because something this simple should be available to everyone.*
+
 ## Features
 
 - **you can  -  pin chats:** Quickly pin your important chats in ChatGPT for easy access.
