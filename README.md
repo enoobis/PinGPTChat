@@ -60,7 +60,8 @@ This got me thinking, and I decided to **create my own free solution**, because 
 
 ## License
 --------------------------
-#### This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+#### This project is licensed under the MIT License - see the [LICENSE](LICENSE)
+*Wich means you can use, copy, modify and distribute the project freely you just need to include the original license file*
 
 
 
