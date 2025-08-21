@@ -38,28 +38,29 @@ This got me thinking, and I decided to **create my own free solution**, because 
 5. Click "Load unpacked" and select the folder where you extracted the extension files.
 
 ## Usage
-*it doesn't work like that anymore since they updated their website*
-1. ~~to pin any chat: right-click on a chat in ChatGPT and select "Pin" from the context menu. The chat will be moved to the top of the chat list for easy access.~~
-2. ~~to unpin a chat: right-click on a pinned chat and select "Unpin". The chat will return to its original position in the list.~~
-3. ~~to view pinned chats: Pinned chats are grouped at the top of your chat list, clearly marked for quick identification.~~
 
-*thats how it works rn.*
-1. to pin any chat - you first need to go to this chat, after you go to it in the upper right corner you will have the function to pin a chat
---------------------------
-![image](https://github.com/user-attachments/assets/46908fa6-a691-4fc6-8ecb-3100704cf7db)
+After installing the extension, a "Pinned" section will automatically appear at the top of your chat history in the ChatGPT sidebar.
 
-2. to unpin a chat - you need to go to the chat that you want to unpin and in the upper right corner there will be a function  to unpin a chat
---------------------------
-![image](https://github.com/user-attachments/assets/51cbfe95-fa79-4479-8036-841e04557c1c)
+### Pinning a Chat
 
-3. to view pinned chats just look at  the chat tab and you will find pinned chats 
---------------------------
-![image](https://github.com/user-attachments/assets/30bc9c76-5be3-44de-86e5-3a66cfbe736d)
+1.  Hover over any chat in the sidebar to reveal the three-dots menu icon.
+2.  Click the **three-dots (...)** button to open the conversation options.
+3.  A "**Pin**" option will appear in the menu. Click it to pin the chat.
+
+### Viewing and Unpinning Chats
+
+-   Pinned chats are grouped at the top of your sidebar under the "**Pinned**" heading for quick access.
+-   To unpin a chat, you can either:
+    1.  Click the three-dots menu on the pinned chat and select "Unpin".
+    2.  Hover over the pinned chat and click the unpin icon that appears on the right.
+
+![screenshot_explanation](screenshots/screenshot.png)
 
 
+---
 
 ## License
---------------------------
+
 #### This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 *Wich means you can use, copy, modify and distribute the project freely you just need to include the original license file*
 
